@@ -10,3 +10,5 @@ def calculate_area(radius):
 if __name__ == "__main__":
     radius = float(input("Enter the radius of the circle: "))
     print(f"The area of the circle is: {calculate_area(radius):.2f}")
+
+#this note is an example of me making  change to the file
